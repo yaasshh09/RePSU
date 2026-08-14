@@ -9,19 +9,22 @@ The goal of RePSU is to turn otherwise wasted hardware into a practical electron
 ## CAD Enclosure:
 
 <p align="center">
-  <img src="Images/ENCLOSURE.png" alt="PCB_FULL"> 
+  <img src="Images/ENCLOSURE.png" alt="ENCLOSURE"> 
 </p>
+
 <p align="center">
-  <img src="Images/FRONT.png" alt="PCB_FULL" width="500">
- <img src="Images/BACK.png" alt="PCB_FULL" width="500">
+  <img src="Images/FRONT.png" alt="FRONT" width="400">
+ <img src="Images/BACK.png" alt="BACK" width="400">
 </p>
+
 <p align="center">
-  <img src="Images/TOP.png" alt="PCB_FULL" width="500">
- <img src="Images/BOTTOM.png" alt="PCB_FULL" width="500">
+  <img src="Images/TOP.png" alt="TOP" width="400">
+ <img src="Images/BOTTOM.png" alt="BOTTOM" width="400">
 </p>
+
 <p align="center">
-  <img src="Images/FAN.png" alt="PCB_FULL" width="500">
- <img src="Images/EDGE.png" alt="PCB_FULL" width="500">
+  <img src="Images/FAN.png" alt="FAN" width="400">
+ <img src="Images/EDGE.png" alt="EDGE" width="400">
 </p>
 
 ## Bill Of Materials:
