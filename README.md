@@ -39,5 +39,6 @@ The goal of RePSU is to turn otherwise wasted hardware into a practical electron
 | 12v 40*40*10mm Fan | x3 | https://ar.aliexpress.com/item/32640103358.html | ~2$ / Fan |
 | IRFZ44N N-Channel Mosfet | x3 | https://www.aliexpress.com/item/1005007038345855.html  | ~2.5$ / 10 IRFZ44N Mosfets |
 |IRF9540 P-Channel Mosfet|x3|https://www.aliexpress.com/item/1005005945630765.html|~2.5$ / 10 IRF9540N |
+| Second Hand ATX PSU | x1 | Buy from FB marketplace, ebay or local sellers | ~10-30$ |
 
 **Estimated BOM Cost:** ~$35 USD, excluding the original ATX PSU and miscellaneous hardware
