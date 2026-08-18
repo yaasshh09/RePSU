@@ -6,6 +6,12 @@ The build also includes several additional features such as voltage/current disp
 
 The goal of RePSU is to turn otherwise wasted hardware into a practical electronics tool while keeping the project low-cost, reusable, and educational.
 
+## Schematic:
+
+<p align="center">
+  <img src="Images/SCH.png" alt="Schematic"> 
+</p>
+
 ## CAD Enclosure:
 
 <p align="center">
@@ -34,9 +40,9 @@ The goal of RePSU is to turn otherwise wasted hardware into a practical electron
 | Voltmeter/Ammeter Displays | x3 | https://www.aliexpress.com/item/1005008406350503.html | ~1.5$ / Display |
 | Banana Sockets | x6 |  https://ar.aliexpress.com/item/1005003943304682.html | ~5$ / 10 Sockets |
 |10 AMP Fuse + Fuse Holder | x3 | https://ar.aliexpress.com/item/4001144562333.html |~1.5$ / Fuse |
-| Metal Push Button | x3 | https://ar.aliexpress.com/item/1005004765834557.html | ~1$ / Button |
+| Metal Push ton | x3 | https://ar.aliexpress.com/item/1005004765834557.html | ~1$ / Button |
 | 85W USB Charger | x1 | https://www.aliexpress.com/item/1005007599829780.html | ~4$ / Charger Module + Fuse |
-| 12v 40*40*10mm Fan | x3 | https://ar.aliexpress.com/item/32640103358.html | ~2$ / Fan |
+| 12v 40x40x10mm Fan | x3 | https://ar.aliexpress.com/item/32640103358.html | ~2$ / Fan |
 | IRFZ44N N-Channel Mosfet | x3 | https://www.aliexpress.com/item/1005007038345855.html  | ~2.5$ / 10 IRFZ44N Mosfets |
 |IRF9540 P-Channel Mosfet|x3|https://www.aliexpress.com/item/1005005945630765.html|~2.5$ / 10 IRF9540N |
 | Second Hand ATX PSU | x1 | Buy from FB marketplace, ebay or local sellers | ~10-30$ |
